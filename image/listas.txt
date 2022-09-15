@@ -1,3 +1,5 @@
 mate
 yerba
-azucar
+PAN
+MERMELADA
+EDULCORANTE
